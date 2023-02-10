@@ -1,0 +1,6 @@
+- Landmark elements aim to break the page into several recognizable areas.
+- Accessibility benefit: A user can use accessibility software such as a screen reader to navigate and understand these landmarks.
+- Semantics benefit: Machines such as search engines can better understand your page and how your website is linked when you have content inside landmarks.
+- The **main** element is used to represent the dominant contents of the page. It contains the content related to the main topic of the page.
+- The **header** element represents the content used to introduce the web page. This usually contains a heading element (such as **h1**), a logo, and some navigational elements (covered later).
+- The **footer** element represents the **footer** of the page. The word footer here does not necessarily mean that the element is visually placed at the bottom of the page. Instead, it contains data usually represented towards the end of a document. Such as links to related documents, copyright data, additional information, etc.
